@@ -1,0 +1,9 @@
+job_id,title,company,description
+1,Data Analyst,TechCorp,"Python SQL Excel Power BI Tableau pandas statistics data analysis"
+2,Data Scientist,DataAI,"Python machine learning scikit-learn pandas numpy SQL statistics deep learning"
+3,Machine Learning Engineer,AI Labs,"Python machine learning TensorFlow PyTorch scikit-learn Docker Git APIs"
+4,Business Analyst,BusinessPro,"Excel SQL Power BI Tableau business analysis communication requirements"
+5,Junior AI Engineer,AI Agent Hub,"Python artificial intelligence machine learning NLP APIs Git automation agents"
+6,Data Engineer,CloudData,"Python SQL ETL AWS Docker Spark data pipelines Git"
+7,NLP Engineer,LanguageAI,"Python NLP NLTK spaCy transformers machine learning deep learning"
+8,BI Developer,AnalyticsPro,"Power BI SQL Excel Tableau data visualization dashboards DAX"
